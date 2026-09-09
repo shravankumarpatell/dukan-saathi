@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Infra: PG18 self-healing bootstrap, Next.js scaffold, shadcn, backend deps",
+    "status": "completed"
+  },
+  {
+    "content": "Backend core + services + routers + seed + alembic (verified via smoke/flow tests)",
+    "status": "completed"
+  },
+  {
+    "content": "Frontend shell: tokens, layout, sidebar, command palette, chords, useGridNav/useComboboxNav, cheatsheet, auth",
+    "status": "in_progress"
+  },
+  {
+    "content": "Frontend screens: dashboard, accounting, inventory, sales, purchase, parties, gst, tools, settings",
+    "status": "pending"
+  },
+  {
+    "content": "Docs: /docs, /decisions ADRs, AGENTS.md, DO_NOT_DO.md, PROJECT_MEMORY.md",
+    "status": "pending"
+  },
+  {
+    "content": "Testing agent run + fix bugs",
+    "status": "pending"
+  }
+]
